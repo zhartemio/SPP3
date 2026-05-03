@@ -1,0 +1,89 @@
+# =====================
+# 1. Артефакты сборки и зависимости
+# =====================
+bin/
+obj/
+packages/
+*.user
+*.suo
+*.cache
+*.tmp
+*.log
+*.nupkg
+*.nuget.props
+*.nuget.targets
+
+# =====================
+# 2. Папки популярных редакторов и сред разработки
+# =====================
+.vs/             # Visual Studio
+.idea/           # JetBrains Rider / IntelliJ IDEA
+.vscode/         # Visual Studio Code (часто добавляют только workspace файлы)
+*.code-workspace
+
+# =====================
+# 3. Системные файлы (macOS / Windows / Linux)
+# =====================
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*~
+
+# =====================
+# 4. Результаты тестов и покрытия
+# =====================
+TestResults/
+Coverage/
+*.coverage
+*.coveragexml
+*.trx
+
+# =====================
+# 5. Логи и профайлинг
+# =====================
+*.log
+*.diagsession
+*.etl
+
+# =====================
+# 6. Временные файлы резервных копий редакторов
+# =====================
+*_flymake.*
+*_flymake
+*.bak
+*.orig
+*.tmp
+
+# =====================
+# 7. Секреты и настройки окружения (никогда не пушить!)
+# =====================
+appsettings.Development.json
+appsettings.Local.json
+*.local.json
+*.Secret.config
+*.secrets
+.env
+.venv
+secrets.json
+
+# =====================
+# 8. Файлы пользовательских настроек (кроме shared)
+# =====================
+*.user
+*.userprefs
+*.dotSettings
+*.dotSettings.user
+
+# =====================
+# 9. Дополнительно для .NET & ASP.NET Core
+# =====================
+# Папка публикации
+publish/
+# Папка с отчётами StyleCop / SonarQube
+output/
+# Файлы профилирования
+*.clm
+# Файлы диагностики
+*.diag

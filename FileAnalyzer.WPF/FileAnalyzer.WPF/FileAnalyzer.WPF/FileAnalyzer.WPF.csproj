@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWindowsForms>true</UseWindowsForms>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="FileAnalyzer.Core">
+      <HintPath>..\..\..\FileAnalyzer.Core\FileAnalyzer.Core\FileAnalyzer.Core\bin\Debug\net8.0\FileAnalyzer.Core.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

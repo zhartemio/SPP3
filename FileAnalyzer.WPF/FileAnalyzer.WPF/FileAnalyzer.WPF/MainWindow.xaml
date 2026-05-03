@@ -1,0 +1,27 @@
+﻿<Window x:Class="FileAnalyzer.WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="File Analyzer" Height="500" Width="800">
+
+    <StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Button Content="Сканировать" Command="{Binding ScanCommand}" />
+            <Button Content="Отмена" Command="{Binding CancelCommand}" />
+        </StackPanel>
+
+        <TreeView ItemsSource="{Binding Nodes}">
+            <TreeView.ItemTemplate>
+                <HierarchicalDataTemplate ItemsSource="{Binding Children}">
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="{Binding Name}" />
+                        <TextBlock Text=" (" />
+                        <TextBlock Text="{Binding Size}" />
+                        <TextBlock Text=" байт, " />
+                        <TextBlock Text="{Binding Percentage, StringFormat={}{0:F1}%}" />
+                        <TextBlock Text=")" />
+                    </StackPanel>
+                </HierarchicalDataTemplate>
+            </TreeView.ItemTemplate>
+        </TreeView>
+    </StackPanel>
+</Window>

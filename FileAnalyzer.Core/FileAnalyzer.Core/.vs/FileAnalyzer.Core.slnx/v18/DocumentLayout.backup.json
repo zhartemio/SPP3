@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BSUIR\\SPP\\Lab3\\FileAnalyzer.Core\\FileAnalyzer.Core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{111985F6-CEE3-15F2-BAB4-C9AA0063F9D4}|FileAnalyzer.Core\\FileAnalyzer.Core.csproj|d:\\bsuir\\spp\\lab3\\fileanalyzer.core\\fileanalyzer.core\\fileanalyzer.core\\filenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{111985F6-CEE3-15F2-BAB4-C9AA0063F9D4}|FileAnalyzer.Core\\FileAnalyzer.Core.csproj|solutionrelative:fileanalyzer.core\\filenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BSUIR\\SPP\\Lab3\\FileAnalyzer.Core\\FileAnalyzer.Core\\FileAnalyzer.Core\\obj\\Debug\\net8.0\\FileAnalyzer.Core.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileAnalyzer.Core\\obj\\Debug\\net8.0\\FileAnalyzer.Core.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{111985F6-CEE3-15F2-BAB4-C9AA0063F9D4}|FileAnalyzer.Core\\FileAnalyzer.Core.csproj|d:\\bsuir\\spp\\lab3\\fileanalyzer.core\\fileanalyzer.core\\fileanalyzer.core\\directoryscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{111985F6-CEE3-15F2-BAB4-C9AA0063F9D4}|FileAnalyzer.Core\\FileAnalyzer.Core.csproj|solutionrelative:fileanalyzer.core\\directoryscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nasta\\Downloads\\Project_ACG _2\\Laba1\\Laba1\\laba1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileAnalyzer.Core.AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\BSUIR\\SPP\\Lab3\\FileAnalyzer.Core\\FileAnalyzer.Core\\FileAnalyzer.Core\\obj\\Debug\\net8.0\\FileAnalyzer.Core.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "FileAnalyzer.Core\\obj\\Debug\\net8.0\\FileAnalyzer.Core.AssemblyInfo.cs",
+              "ToolTip": "D:\\BSUIR\\SPP\\Lab3\\FileAnalyzer.Core\\FileAnalyzer.Core\\FileAnalyzer.Core\\obj\\Debug\\net8.0\\FileAnalyzer.Core.AssemblyInfo.cs",
+              "RelativeToolTip": "FileAnalyzer.Core\\obj\\Debug\\net8.0\\FileAnalyzer.Core.AssemblyInfo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T07:13:24.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DirectoryScanner.cs",
+              "DocumentMoniker": "D:\\BSUIR\\SPP\\Lab3\\FileAnalyzer.Core\\FileAnalyzer.Core\\FileAnalyzer.Core\\DirectoryScanner.cs",
+              "RelativeDocumentMoniker": "FileAnalyzer.Core\\DirectoryScanner.cs",
+              "ToolTip": "D:\\BSUIR\\SPP\\Lab3\\FileAnalyzer.Core\\FileAnalyzer.Core\\FileAnalyzer.Core\\DirectoryScanner.cs",
+              "RelativeToolTip": "FileAnalyzer.Core\\DirectoryScanner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T06:34:03.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileNode.cs",
+              "DocumentMoniker": "D:\\BSUIR\\SPP\\Lab3\\FileAnalyzer.Core\\FileAnalyzer.Core\\FileAnalyzer.Core\\FileNode.cs",
+              "RelativeDocumentMoniker": "FileAnalyzer.Core\\FileNode.cs",
+              "ToolTip": "D:\\BSUIR\\SPP\\Lab3\\FileAnalyzer.Core\\FileAnalyzer.Core\\FileAnalyzer.Core\\FileNode.cs",
+              "RelativeToolTip": "FileAnalyzer.Core\\FileNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T06:32:13.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\nasta\\Downloads\\Project_ACG _2\\Laba1\\Laba1\\Laba1\\Form1.cs",
+              "ToolTip": "D:\\BSUIR\\ACG\\Laba1\\Laba1\\Laba1\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\..\\ACG\\Laba1\\Laba1\\Laba1\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T06:42:49.186Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

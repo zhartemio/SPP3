@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "D:\\BSUIR\\SPP\\Lab3\\FileAnalyzer.WPF\\FileAnalyzer.WPF\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9498C702-3B6D-2F84-310F-43483425BDF3}|FileAnalyzer.WPF\\FileAnalyzer.WPF.csproj|d:\\bsuir\\spp\\lab3\\fileanalyzer.wpf\\fileanalyzer.wpf\\fileanalyzer.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9498C702-3B6D-2F84-310F-43483425BDF3}|FileAnalyzer.WPF\\FileAnalyzer.WPF.csproj|solutionrelative:fileanalyzer.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9498C702-3B6D-2F84-310F-43483425BDF3}|FileAnalyzer.WPF\\FileAnalyzer.WPF.csproj|d:\\bsuir\\spp\\lab3\\fileanalyzer.wpf\\fileanalyzer.wpf\\fileanalyzer.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9498C702-3B6D-2F84-310F-43483425BDF3}|FileAnalyzer.WPF\\FileAnalyzer.WPF.csproj|solutionrelative:fileanalyzer.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9498C702-3B6D-2F84-310F-43483425BDF3}|FileAnalyzer.WPF\\FileAnalyzer.WPF.csproj|d:\\bsuir\\spp\\lab3\\fileanalyzer.wpf\\fileanalyzer.wpf\\fileanalyzer.wpf\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9498C702-3B6D-2F84-310F-43483425BDF3}|FileAnalyzer.WPF\\FileAnalyzer.WPF.csproj|solutionrelative:fileanalyzer.wpf\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9498C702-3B6D-2F84-310F-43483425BDF3}|FileAnalyzer.WPF\\FileAnalyzer.WPF.csproj|d:\\bsuir\\spp\\lab3\\fileanalyzer.wpf\\fileanalyzer.wpf\\fileanalyzer.wpf\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9498C702-3B6D-2F84-310F-43483425BDF3}|FileAnalyzer.WPF\\FileAnalyzer.WPF.csproj|solutionrelative:fileanalyzer.wpf\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9498C702-3B6D-2F84-310F-43483425BDF3}|FileAnalyzer.WPF\\FileAnalyzer.WPF.csproj|d:\\bsuir\\spp\\lab3\\fileanalyzer.wpf\\fileanalyzer.wpf\\fileanalyzer.wpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9498C702-3B6D-2F84-310F-43483425BDF3}|FileAnalyzer.WPF\\FileAnalyzer.WPF.csproj|solutionrelative:fileanalyzer.wpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,14 +31,6 @@
       "RelativeMoniker": "D:0:0:{9498C702-3B6D-2F84-310F-43483425BDF3}|FileAnalyzer.WPF\\FileAnalyzer.WPF.csproj|solutionrelative:fileanalyzer.wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9498C702-3B6D-2F84-310F-43483425BDF3}|FileAnalyzer.WPF\\FileAnalyzer.WPF.csproj|d:\\bsuir\\spp\\lab3\\fileanalyzer.wpf\\fileanalyzer.wpf\\fileanalyzer.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{9498C702-3B6D-2F84-310F-43483425BDF3}|FileAnalyzer.WPF\\FileAnalyzer.WPF.csproj|solutionrelative:fileanalyzer.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9498C702-3B6D-2F84-310F-43483425BDF3}|FileAnalyzer.WPF\\FileAnalyzer.WPF.csproj|d:\\bsuir\\spp\\lab3\\fileanalyzer.wpf\\fileanalyzer.wpf\\fileanalyzer.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9498C702-3B6D-2F84-310F-43483425BDF3}|FileAnalyzer.WPF\\FileAnalyzer.WPF.csproj|solutionrelative:fileanalyzer.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9498C702-3B6D-2F84-310F-43483425BDF3}|FileAnalyzer.WPF\\FileAnalyzer.WPF.csproj|d:\\bsuir\\spp\\lab3\\fileanalyzer.wpf\\fileanalyzer.wpf\\fileanalyzer.wpf\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9498C702-3B6D-2F84-310F-43483425BDF3}|FileAnalyzer.WPF\\FileAnalyzer.WPF.csproj|solutionrelative:fileanalyzer.wpf\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -33,14 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9498C702-3B6D-2F84-310F-43483425BDF3}|FileAnalyzer.WPF\\FileAnalyzer.WPF.csproj|d:\\bsuir\\spp\\lab3\\fileanalyzer.wpf\\fileanalyzer.wpf\\fileanalyzer.wpf\\filenodeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9498C702-3B6D-2F84-310F-43483425BDF3}|FileAnalyzer.WPF\\FileAnalyzer.WPF.csproj|solutionrelative:fileanalyzer.wpf\\filenodeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9498C702-3B6D-2F84-310F-43483425BDF3}|FileAnalyzer.WPF\\FileAnalyzer.WPF.csproj|d:\\bsuir\\spp\\lab3\\fileanalyzer.wpf\\fileanalyzer.wpf\\fileanalyzer.wpf\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9498C702-3B6D-2F84-310F-43483425BDF3}|FileAnalyzer.WPF\\FileAnalyzer.WPF.csproj|solutionrelative:fileanalyzer.wpf\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9498C702-3B6D-2F84-310F-43483425BDF3}|FileAnalyzer.WPF\\FileAnalyzer.WPF.csproj|d:\\bsuir\\spp\\lab3\\fileanalyzer.wpf\\fileanalyzer.wpf\\fileanalyzer.wpf\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9498C702-3B6D-2F84-310F-43483425BDF3}|FileAnalyzer.WPF\\FileAnalyzer.WPF.csproj|solutionrelative:fileanalyzer.wpf\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,15 +50,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "App.g.i.cs",
               "DocumentMoniker": "D:\\BSUIR\\SPP\\Lab3\\FileAnalyzer.WPF\\FileAnalyzer.WPF\\FileAnalyzer.WPF\\obj\\Debug\\net8.0-windows\\App.g.i.cs",
               "RelativeDocumentMoniker": "FileAnalyzer.WPF\\obj\\Debug\\net8.0-windows\\App.g.i.cs",
@@ -66,12 +70,11 @@
               "RelativeToolTip": "FileAnalyzer.WPF\\obj\\Debug\\net8.0-windows\\App.g.i.cs",
               "ViewState": "AgIAADYAAAAAAAAAAAAAwEEAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T07:33:42.629Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-03T07:33:42.629Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "App.xaml",
               "DocumentMoniker": "D:\\BSUIR\\SPP\\Lab3\\FileAnalyzer.WPF\\FileAnalyzer.WPF\\FileAnalyzer.WPF\\App.xaml",
               "RelativeDocumentMoniker": "FileAnalyzer.WPF\\App.xaml",
@@ -83,20 +86,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "D:\\BSUIR\\SPP\\Lab3\\FileAnalyzer.WPF\\FileAnalyzer.WPF\\FileAnalyzer.WPF\\App.xaml.cs",
               "RelativeDocumentMoniker": "FileAnalyzer.WPF\\App.xaml.cs",
-              "ToolTip": "D:\\BSUIR\\SPP\\Lab3\\FileAnalyzer.WPF\\FileAnalyzer.WPF\\FileAnalyzer.WPF\\App.xaml.cs*",
-              "RelativeToolTip": "FileAnalyzer.WPF\\App.xaml.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "ToolTip": "D:\\BSUIR\\SPP\\Lab3\\FileAnalyzer.WPF\\FileAnalyzer.WPF\\FileAnalyzer.WPF\\App.xaml.cs",
+              "RelativeToolTip": "FileAnalyzer.WPF\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-03T07:31:31.846Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "D:\\BSUIR\\SPP\\Lab3\\FileAnalyzer.WPF\\FileAnalyzer.WPF\\FileAnalyzer.WPF\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "FileAnalyzer.WPF\\AssemblyInfo.cs",
@@ -104,25 +107,24 @@
               "RelativeToolTip": "FileAnalyzer.WPF\\AssemblyInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T07:23:52.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-03T07:23:52.586Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "MainViewModel.cs",
               "DocumentMoniker": "D:\\BSUIR\\SPP\\Lab3\\FileAnalyzer.WPF\\FileAnalyzer.WPF\\FileAnalyzer.WPF\\MainViewModel.cs",
               "RelativeDocumentMoniker": "FileAnalyzer.WPF\\MainViewModel.cs",
               "ToolTip": "D:\\BSUIR\\SPP\\Lab3\\FileAnalyzer.WPF\\FileAnalyzer.WPF\\FileAnalyzer.WPF\\MainViewModel.cs",
               "RelativeToolTip": "FileAnalyzer.WPF\\MainViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAzwDAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-03T07:05:35.132Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "FileNodeViewModel.cs",
               "DocumentMoniker": "D:\\BSUIR\\SPP\\Lab3\\FileAnalyzer.WPF\\FileAnalyzer.WPF\\FileAnalyzer.WPF\\FileNodeViewModel.cs",
               "RelativeDocumentMoniker": "FileAnalyzer.WPF\\FileNodeViewModel.cs",
@@ -130,12 +132,11 @@
               "RelativeToolTip": "FileAnalyzer.WPF\\FileNodeViewModel.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAWwBoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T07:04:52.143Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-03T07:04:52.143Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "RelayCommand.cs",
               "DocumentMoniker": "D:\\BSUIR\\SPP\\Lab3\\FileAnalyzer.WPF\\FileAnalyzer.WPF\\FileAnalyzer.WPF\\RelayCommand.cs",
               "RelativeDocumentMoniker": "FileAnalyzer.WPF\\RelayCommand.cs",
@@ -148,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "BaseViewModel.cs",
               "DocumentMoniker": "D:\\BSUIR\\SPP\\Lab3\\FileAnalyzer.WPF\\FileAnalyzer.WPF\\FileAnalyzer.WPF\\BaseViewModel.cs",
               "RelativeDocumentMoniker": "FileAnalyzer.WPF\\BaseViewModel.cs",
@@ -156,12 +157,11 @@
               "RelativeToolTip": "FileAnalyzer.WPF\\BaseViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T07:03:03.056Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-03T07:03:03.056Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\BSUIR\\SPP\\Lab3\\FileAnalyzer.WPF\\FileAnalyzer.WPF\\FileAnalyzer.WPF\\MainWindow.xaml",
               "RelativeDocumentMoniker": "FileAnalyzer.WPF\\MainWindow.xaml",
@@ -173,20 +173,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\BSUIR\\SPP\\Lab3\\FileAnalyzer.WPF\\FileAnalyzer.WPF\\FileAnalyzer.WPF\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "FileAnalyzer.WPF\\MainWindow.xaml.cs",
               "ToolTip": "D:\\BSUIR\\SPP\\Lab3\\FileAnalyzer.WPF\\FileAnalyzer.WPF\\FileAnalyzer.WPF\\MainWindow.xaml.cs",
               "RelativeToolTip": "FileAnalyzer.WPF\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-03T07:02:14.775Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             }
           ]
         }

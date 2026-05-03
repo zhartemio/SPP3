@@ -19,6 +19,7 @@ namespace FileAnalyzer.WPF
         public MainWindow()
         {
             InitializeComponent();
+            DataContext = new MainViewModel();
         }
     }
 }
